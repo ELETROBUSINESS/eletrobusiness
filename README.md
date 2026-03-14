@@ -18,9 +18,9 @@ Priorizo o **minimalismo funcional**. Interfaces limpas que eliminam distraçõe
 
 ### 🚀 Tecnologias
 <p align="left">
-  <img src="https://img.shields.io/badge/Web_Dev-#db0038?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Dev-db0038?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-db0038?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-db0038?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
