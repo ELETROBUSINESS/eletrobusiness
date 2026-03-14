@@ -27,7 +27,7 @@ Minha filosofia de design segue o conceito "menos é mais". Priorizo interfaces 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=reactive&hide_border=true&title_color=db0038&icon_color=db0038&text_color=555" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ELETROBUSINESS&show_icons=true&theme=reactive&hide_border=true&title_color=db0038&icon_color=db0038&text_color=555" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&hide_border=true&title_color=db0038&text_color=555" />
 </p>
 
