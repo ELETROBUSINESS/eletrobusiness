@@ -10,32 +10,32 @@ Desenvolvedor focado em soluções funcionais, UI/UX minimalista e automação d
 * **Automação com Python:** Desenvolvimento de assistentes virtuais e scripts para otimização de fluxos de trabalho.
 
 ### 🎨 Estilo & Design
-Minha filosofia de design segue o conceito "menos é mais". Priorizo interfaces limpas, funcionais e diretas, utilizando o **vermelho (#db0038)** como cor de destaque para uma experiência de usuário moderna.
+Minha filosofia de design segue o conceito "menos é mais". Priorizo interfaces limpas, funcionais e diretas, utilizando uma paleta de cores estritamente **preto e branco** para uma experiência de usuário moderna, atemporal e direta.
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Web_Development-db0038?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX_Design-db0038?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Development-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-000000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Ecossistema Eletropay (Visão Geral ASCII)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ELETROBUSINESS&show_icons=true&theme=reactive&hide_border=true&title_color=db0038&icon_color=db0038&text_color=555" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELETROBUSINESS&layout=compact&hide_border=true&title_color=db0038&text_color=555" />
-</p>
+Abaixo, um diagrama minimalista em ASCII representando o fluxo integrado do PDV com a plataforma de pagamentos Eletropay.
 
----
-
-### 📫 Conecte-se comigo
-* **Email:** eletroofficialbusiness@gmail.com
-
-<p align="center">
-  <em>"A lógica é o princípio da sabedoria, não o fim."</em>
-</p>
+```text
+   +------------+       +------------+       +------------+
+   |   Cliente   | ----> |    PDV     | ----> | Eletropay  |
+   | (Pagamento) |       | (Interface) |       | (Gateway)  |
+   +------------+       +------------+       +------------+
+                                             |
+                                             v
+                                     +----------------+
+                                     |      Banco     |
+                                     | (Processamento) |
+                                     +----------------+
