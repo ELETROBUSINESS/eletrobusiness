@@ -5,13 +5,12 @@ Desenvolvedor focado em soluções funcionais, UI/UX minimalista e automação d
 ---
 
 ### 🛠️ No que estou trabalhando
-* **Sistemas de PDV:** Desenvolvimento de soluções completas para pontos de venda e gestão de estoque.
-* **E-commerce & Pagamentos:** Integração de fluxos de checkout e emissão de notas fiscais (NFC-e).
-* **Automação com Python:** Criação de assistentes virtuais e scripts de otimização de tarefas.
-* **Game Dev (Roblox/Lua):** Exploração de geração procedural de mundos e mecânicas complexas.
+* **Sistemas de PDV:** Desenvolvimento de soluções robustas para pontos de venda e gestão de estoque.
+* **Eletropay:** Criação e evolução de tecnologia própria para processamento inteligente de pagamentos.
+* **Automação com Python:** Desenvolvimento de assistentes virtuais e scripts para otimização de fluxos de trabalho.
 
 ### 🎨 Estilo & Design
-Acredito na máxima de que "menos é mais". Minhas interfaces priorizam a clareza visual e a funcionalidade, utilizando o **vermelho (#db0038)** como cor de destaque para guiar a experiência do usuário de forma moderna e direta.
+Minha filosofia de design segue o conceito "menos é mais". Priorizo interfaces limpas, funcionais e diretas, utilizando o **vermelho (#db0038)** como cor de destaque para uma experiência de usuário moderna.
 
 ---
 
@@ -20,7 +19,6 @@ Acredito na máxima de que "menos é mais". Minhas interfaces priorizam a clarez
 <p align="left">
   <img src="https://img.shields.io/badge/Web_Development-db0038?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/UI/UX_Design-db0038?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -29,16 +27,14 @@ Acredito na máxima de que "menos é mais". Minhas interfaces priorizam a clarez
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=reactive&hide_border=true&title_color=db0038&icon_color=db0038&text_color=555" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&title_color=db0038&text_color=555" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=reactive&hide_border=true&title_color=db0038&icon_color=db0038&text_color=555" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&hide_border=true&title_color=db0038&text_color=555" />
 </p>
 
 ---
 
 ### 📫 Conecte-se comigo
-* **Email:** [Seu Email]
-* **LinkedIn:** [Seu Link]
-* **Site/Portfólio:** [Seu Link]
+* **Email:** eletroofficialbusiness@gmail.com
 
 <p align="center">
   <em>"A lógica é o princípio da sabedoria, não o fim."</em>
